@@ -1,0 +1,17 @@
+file_name = labels.csv
+aug_file_name=all_labels.csv
+width = 416
+height = 416
+xmin = xmin
+ymin = ymin
+xmax = xmax
+ymax = ymax
+label = class
+class_name = head,helmet,person
+output_csv_name = yolo_output_voc
+image_path=C:\Users\sense\Documents\Final_Capstone_Project\01_data\images\
+xml_path=C:\Users\sense\Documents\Final_Capstone_Project\01_data\annotations\
+label_path=C:\Users\sense\Documents\Final_Capstone_Project\DataPreProcessing\
+aug_label_path=C:\Users\sense\Documents\Final_Capstone_Project\AugmentData\
+train_test=C:\Users\sense\Documents\Final_Capstone_Project\
+aug_images_path=C:\Users\sense\Documents\Final_Capstone_Project\AugmentData\
