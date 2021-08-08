@@ -21,19 +21,35 @@ config.txt meanings
 
 
 file_name = labels.csv //DO NOT CHANGE//
+
 aug_file_name=all_labels.csv //DO NOT CHANGE//
+
 width = 416 //DO NOT CHANGE//
+
 height = 416 //DO NOT CHANGE//
+
 xmin = xmin //DO NOT CHANGE//
+
 ymin = ymin //DO NOT CHANGE//
+
 xmax = xmax //DO NOT CHANGE//
+
 ymax = ymax //DO NOT CHANGE//
+
 label = class //DO NOT CHANGE//
+
 class_name = head,helmet,person //DO NOT CHANGE//
+
 output_csv_name = yolo_output_voc //DO NOT CHANGE//
+
 image_path=C:\Users\sense\Documents\Final_Capstone_Project\01_data\images\  //SHOULD BE THE COMPLETE PATH OF THE IMAGE DIRECTORY//
+
 xml_path=C:\Users\sense\Documents\Final_Capstone_Project\01_data\annotations\ //SHOULD BE THE COMPLETE PATH OF THE ANNOTATION DIRECTORY//
+
 label_path=C:\Users\sense\Documents\Final_Capstone_Project\DataPreProcessing\ //SHOULD BE THE COMPLETE PATH OF THE "PreProcessing\DataPreProcessing\" DIRECTORY//
+
 aug_label_path=C:\Users\sense\Documents\Final_Capstone_Project\AugmentData\ //SHOULD BE THE COMPLETE PATH OF THE "PreProcessing\AugmentData\" DIRECTORY//
+
 train_test=C:\Users\sense\Documents\Final_Capstone_Project\ //SHOULD BE THE COMPLETE PATH OF THE "PreProcessing\" DIRECTORY (ROOT)//
+
 aug_images_path=C:\Users\sense\Documents\Final_Capstone_Project\AugmentData\ //SHOULD BE THE COMPLETE PATH OF THE "PreProcessing\AugmentData\" DIRECTORY//
